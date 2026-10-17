@@ -1,5 +1,4 @@
-streamlit
+requests
 pandas
-google-api-python-client
+streamlit
 google-auth-oauthlib
-google-auth-httplib2
