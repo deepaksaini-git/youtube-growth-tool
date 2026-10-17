@@ -21,7 +21,7 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests pandas streamlit
+          pip install requests pandas streamlit google-auth-oauthlib
           
       - name: Run SEO Alert Script 
         env:
